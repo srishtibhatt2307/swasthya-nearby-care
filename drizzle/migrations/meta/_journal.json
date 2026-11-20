@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1795192444029,
+      "tag": "0000_swasthyasetu_core_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1795192608516,
+      "tag": "0001_seed_sample_chhattisgarh_data",
+      "breakpoints": true
+    }
+  ]
+}
